@@ -27,8 +27,8 @@ class SwaggerConfig {
 
     private fun apiEndsPointsInfo(): ApiInfo {
         return ApiInfoBuilder()
-                .title("Bank account app")
-                .description("CRUD Rest API in Spring boot(Docker, Swagger, Spring Jpa, PostgreSql, JUnit)")
+                .title("Payroll system app")
+                .description("Payroll system app in Spring boot(Swagger, Spring Jpa, JUnit)")
                 .build()
     }
 }
